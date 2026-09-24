@@ -518,7 +518,7 @@ Business Storytelling
 
 ## 👨‍💻 Author
 
-**Pritam Maha Man Singh**
+**Itibrata Sahoo**
 
 Data Analyst | Power BI | SQL | Python | Data Analytics
 
